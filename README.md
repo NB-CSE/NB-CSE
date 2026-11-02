@@ -8,25 +8,7 @@
 
 ---
 
-## 🚀 A Little About Me
 
-```python
-class NareshBehra:
-    def __init__(self):
-        self.name = "Naresh Behra"
-        self.education = "B.Tech CSE (AI & ML)"
-        self.interests = [
-            "Web Development",
-            "Artificial Intelligence",
-            "Programming"
-        ]
-        self.goal = "Building useful projects"
-
-    def say_hello(self):
-        print("Thanks for visiting my profile!")
-
-me = NareshBehra()
-me.say_hello()
 
 - 🎓 Exploring the world of Computer Science and AI.
 - 🌱 Learning new technologies and improving my coding skills.
