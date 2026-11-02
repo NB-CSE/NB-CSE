@@ -20,14 +20,13 @@ class NareshBehra:
             "Artificial Intelligence",
             "Programming"
         ]
-        self.current_goal = "Building useful projects"
+        self.goal = "Building useful projects"
 
     def say_hello(self):
         print("Thanks for visiting my profile!")
 
 me = NareshBehra()
 me.say_hello()
-```
 
 - 🎓 Exploring the world of Computer Science and AI.
 - 🌱 Learning new technologies and improving my coding skills.
