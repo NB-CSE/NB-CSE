@@ -12,25 +12,8 @@
 
 ## 🚀 About Me
 
-```python
-class NareshBehra:
-    def __init__(self):
-        self.name = "Naresh Behra"
-        self.education = "B.Tech CSE (AI & ML)"
-        self.role = "Aspiring Software Developer"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development",
-            "Problem Solving"
-        ]
-        self.current_focus = "Building innovative projects"
+Coming Early!!!
 
-    def introduce(self):
-        return "Turning curiosity into creativity through code."
-
-me = NareshBehra()
-print(me.introduce())
 ```
 
 - 🎓 Exploring Computer Science and Artificial Intelligence.
