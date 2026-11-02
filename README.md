@@ -10,8 +10,27 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
 </p>
 
+## 🚀 About Me
 
+```python
+class NareshBehra:
+    def __init__(self):
+        self.name = "Naresh Behra"
+        self.education = "B.Tech CSE (AI & ML)"
+        self.role = "Aspiring Software Developer"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Web Development",
+            "Problem Solving"
+        ]
+        self.current_focus = "Building innovative projects"
 
+    def introduce(self):
+        return "Turning curiosity into creativity through code."
+
+me = NareshBehra()
+print(me.introduce())
 ```
 
 - 🎓 Exploring Computer Science and Artificial Intelligence.
