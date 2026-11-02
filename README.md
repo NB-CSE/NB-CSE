@@ -12,26 +12,22 @@
 
 ```python
 class NareshBehra:
-
     def __init__(self):
         self.name = "Naresh Behra"
         self.education = "B.Tech CSE (AI & ML)"
-
         self.interests = [
             "Web Development",
             "Artificial Intelligence",
             "Python Programming"
         ]
-
-        self.current_goal = "Building useful projects"
+        self.goal = "Building useful projects"
 
     def introduce(self):
         print(f"Hi, I'm {self.name}!")
         print(f"Education: {self.education}")
-        print(f"Goal: {self.current_goal}")
+        print(f"Goal: {self.goal}")
 
 
-# Creating my profile
 me = NareshBehra()
 me.introduce()
 ```
