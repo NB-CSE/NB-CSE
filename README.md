@@ -10,6 +10,10 @@
 
 ## 🚀 A Little About Me
 
+I believe in learning by doing and turning ideas into reality.
+
+**Here's a little introduction through Python!**
+
 ```python
 class NareshBehra:
     def __init__(self):
@@ -23,15 +27,40 @@ class NareshBehra:
         self.goal = "Building useful projects"
 
     def introduce(self):
-        print(f"Hi, I'm {self.name}!")
-        print(f"Education: {self.education}")
-        print(f"Goal: {self.goal}")
+        print("\n" + "=" * 40)
+        print("       MY DEVELOPER PROFILE")
+        print("=" * 40)
+        print(f"Name       : {self.name}")
+        print(f"Education  : {self.education}")
+        print(f"Interests  : {', '.join(self.interests)}")
+        print(f"Goal       : {self.goal}")
+        print("=" * 40)
+        print("Thanks for visiting my GitHub profile!")
+        print("Keep Learning | Keep Building | Keep Growing")
+        print("=" * 40)
 
 
 me = NareshBehra()
 me.introduce()
 ```
 
+**💻 Output**
+
+```text
+========================================
+       MY DEVELOPER PROFILE
+========================================
+Name       : Naresh Behra
+Education  : B.Tech CSE (AI & ML)
+Interests  : Web Development, Artificial Intelligence, Python Programming
+Goal       : Building useful projects
+========================================
+Thanks for visiting my GitHub profile!
+Keep Learning | Keep Building | Keep Growing
+========================================
+```
+
+---
 - 🎓 Exploring the world of Computer Science and AI.
 - 🌱 Learning new technologies and improving my coding skills.
 - 🛠️ Building projects to turn ideas into reality.
