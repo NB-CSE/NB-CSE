@@ -44,22 +44,6 @@ me = NareshBehra()
 me.introduce()
 ```
 
-**💻 Output**
-
-```text
-========================================
-       MY DEVELOPER PROFILE
-========================================
-Name       : Naresh Behra
-Education  : B.Tech CSE (AI & ML)
-Interests  : Web Development, Artificial Intelligence, Python Programming
-Goal       : Building useful projects
-========================================
-Thanks for visiting my GitHub profile!
-Keep Learning | Keep Building | Keep Growing
-========================================
-```
-
 ---
 - 🎓 Exploring the world of Computer Science and AI.
 - 🌱 Learning new technologies and improving my coding skills.
