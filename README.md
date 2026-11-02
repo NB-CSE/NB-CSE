@@ -10,9 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
 </p>
 
-## 🚀 About Me
 
-Coming Early!!!
 
 ```
 
