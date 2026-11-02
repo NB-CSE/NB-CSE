@@ -1,116 +1,103 @@
-# 👋 Hey, I'm Naresh Behra
+# 👋 Hey, I'm Naresh Behra!
 
-### 💻 Computer Science Student | AI & ML Enthusiast | Aspiring Software Developer
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Exploring+Artificial+Intelligence;Building+Ideas+Into+Reality;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG" />
-</p>
+### 💻 Computer Science Student | AI & ML Enthusiast | Aspiring Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Turning+Ideas+Into+Code;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+---
+
+## 🚀 A Little About Me
+
+I'm Naresh Behra, a B.Tech Computer Science student specializing in AI & ML. I love learning new technologies and building useful projects.
 
 ```python
 class NareshBehra:
     def __init__(self):
         self.name = "Naresh Behra"
         self.education = "B.Tech CSE (AI & ML)"
-        self.role = "Aspiring Software Developer"
         self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
             "Web Development",
-            "Problem Solving"
+            "Artificial Intelligence",
+            "Python Programming"
         ]
-        self.current_focus = "Building innovative projects"
+        self.goal = "Building useful projects"
 
     def introduce(self):
-        return "Turning curiosity into creativity through code."
+        print(f"Hello, I'm {self.name}!")
+        print(f"Education: {self.education}")
+        print(f"Interests: {', '.join(self.interests)}")
+        print(f"Goal: {self.goal}")
 
-me = NareshBehra()
-print(me.introduce())
+
+if __name__ == "__main__":
+    me = NareshBehra()
+    me.introduce()
 ```
 
 - 🎓 Exploring Computer Science and Artificial Intelligence.
-- 🤖 Interested in AI, Machine Learning and intelligent applications.
-- 💻 Developing practical projects and improving my programming skills.
-- 🌱 Continuously learning modern technologies.
-- 🎯 Aspiring to become a skilled Software Developer.
+- 🌱 Learning new technologies and improving my coding skills.
+- 🛠️ Building projects to turn ideas into reality.
+- 🎯 Working towards becoming a skilled Software Developer.
 
 ---
 
-## ⚡ Technology Stack
+## ⚡ My Tech Universe
 
-### 💻 Programming & Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nextjs&theme=dark" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-</p>
-
-### 🧠 Areas of Interest
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=googlebrain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00A67D?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-1572B6?style=for-the-badge&logo=web&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🧩 Things I'm Building
 
 ### 🌐 Personal Portfolio
-A personal website showcasing my skills, achievements, education and development journey.
 
-**Tech Stack:** HTML · CSS · JavaScript
+A digital space to showcase my journey, skills, education and projects.
+
+`HTML` `CSS` `JavaScript`
 
 ### 🥗 NutriScan AI
-An intelligent food product analysis application exploring ingredient recognition and nutritional insights.
 
-**Tech Stack:** Next.js · JavaScript · OCR · AI
+An AI-powered food product analysis project focused on ingredients and nutrition.
 
----
-
-## 📚 Currently Learning
-
-- 🐍 Python Programming
-- 🌐 Advanced Frontend Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧩 Data Structures & Algorithms
-- 🔍 Problem Solving
+`Next.js` `JavaScript` `OCR` `AI`
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Currently Leveling Up
+
+- Python Programming
+- Frontend Development
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+
+---
+
+## 🐍 My Contribution Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NB-CSE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NB-CSE&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=NB-CSE&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/NB-CSE/NB-CSE/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NB-CSE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NB-CSE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=NB-CSE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://github.com/NB-CSE">
@@ -120,19 +107,14 @@ An intelligent food product analysis application exploring ingredient recognitio
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nareshbehra58@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=120&section=footer" width="100%" />
-</p>
-
-<h3 align="center">✨ "Dream. Build. Innovate. Repeat."</h3>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!<br>
-  <b>Let's connect, collaborate and create something amazing.</b>
+  <i>"Great things are built one line of code at a time."</i>
+  <br><br>
+  ⭐ Thanks for stopping by! Keep coding and keep growing.
 </p>
