@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Naresh Behra!
+# 👋 Heey, I'm Naresh Behra!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D9FF,100:7B2FF7&height=220&section=header&text=Naresh%20Behra&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Tomorrow%20With%20Technology&descAlignY=58&descSize=17" width="100%" />
