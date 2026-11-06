@@ -140,7 +140,7 @@ An intelligent food product analysis application focused on ingredient recogniti
   <a href="https://www.linkedin.com/in/naresh-b25269381">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nareshbehra58@gmail.com">
+  <a href="mailto:nareshbehra911@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
