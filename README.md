@@ -35,7 +35,7 @@ I'm a Computer Science student passionate about exploring technology, building c
 
 ### 👨‍💻 Developer Mindset
 
-```python
+/*```python
 class NareshBehra:
     def __init__(self):
         self.name = "Naresh Behra"
@@ -53,7 +53,7 @@ class NareshBehra:
 
 me = NareshBehra()
 print(me.build())
-```
+```*/
 
 ---
 
