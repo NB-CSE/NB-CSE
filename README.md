@@ -33,28 +33,6 @@ I'm a Computer Science student passionate about exploring technology, building c
 
 <br clear="right"/>
 
-### 👨‍💻 Developer Mindset
-
-/*```python
-class NareshBehra:
-    def __init__(self):
-        self.name = "Naresh Behra"
-        self.role = "Aspiring Developer"
-        self.education = "B.Tech CSE (AI & ML)"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development",
-            "Problem Solving"
-        ]
-
-    def build(self):
-        return "Ideas + Code + Consistency = Innovation"
-
-me = NareshBehra()
-print(me.build())
-```*/
-
 ---
 
 ## ⚡ My Tech Arsenal
