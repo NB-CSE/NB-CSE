@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Aspiring+Software+Developer;Turning+Ideas+Into+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Intelligent+Solutions" />
 </p>
 
 <p align="center">
   <a href="https://github.com/NB-CSE">
     <img src="https://img.shields.io/badge/GitHub-NB--CSE-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Innovating-7B2FF7?style=for-the-badge" />
 </p>
 
 ---
@@ -22,13 +22,13 @@
 
 <img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a Computer Science student passionate about exploring technology, building creative applications and understanding the power of Artificial Intelligence.
+I'm a Computer Science student and Full Stack Web Developer passionate about building high-performance web applications, creative user experiences, and exploring Artificial Intelligence.
 
 - 🎓 **Education:** B.Tech CSE (AI & ML)
+- 💻 **Full-Stack Development:** React, Node.js, Express, MongoDB, Tailwind CSS
 - 🤖 **Interests:** Artificial Intelligence & Machine Learning
-- 💻 **Development:** Web Development & Programming
-- 🌱 **Currently Exploring:** Python, AI and modern development tools
-- 🎯 **Goal:** Become a skilled Software Developer
+- 🌐 **Portfolio:** [nb-cse.github.io/PORTFOLIO](https://nb-cse.github.io/PORTFOLIO/)
+- 🎯 **Goal:** Crafting impactful software solutions that scale
 - ⚡ **Mindset:** Learn something new. Build something useful.
 
 <br clear="right"/>
@@ -37,24 +37,24 @@ I'm a Computer Science student passionate about exploring technology, building c
 
 ## ⚡ My Tech Arsenal
 
-### Programming Languages & Web
+### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,js,python,html,css,nextjs&theme=dark" />
 </p>
 
-### Development Tools
+### Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,postman&theme=dark" />
 </p>
 
 ### Areas of Interest
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-1572B6?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=googlebrain&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-00A67D?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-1572B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ---
@@ -65,27 +65,40 @@ I'm a Computer Science student passionate about exploring technology, building c
 <tr>
 <td width="50%">
 
-### 🌐 Personal Portfolio
+### 💼 Elevate Careers — Tech Job Board
+Modern tech career platform connecting engineering talent with top startups and product enterprises in India, featuring real-time compensation calculators and verified listings.
 
-A digital space showcasing my skills, projects, education and developer journey.
-
-**Technologies**
-- HTML
-- CSS
-- JavaScript
+- **Tech:** React, Vite, Tailwind CSS, Node.js, Express
+- 🔗 **[Live Demo](https://nb-cse.github.io/JOB_BOARD/)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/JOB_BOARD)**
 
 </td>
 <td width="50%">
 
-### 🥗 NutriScan AI
+### 🛍️ FORME — E-Commerce Platform
+A premium, modern online shopping platform with dynamic product catalogs, interactive cart management, and seamless responsive design.
 
-An intelligent food product analysis application focused on ingredient recognition and nutritional insights.
+- **Tech:** React, Node.js, Express, MongoDB, Tailwind
+- 🔗 **[Live Demo](https://forme-store.onrender.com)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/FORME-STORE)**
 
-**Technologies**
-- Next.js
-- JavaScript
-- OCR
-- AI
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Developer Portfolio
+A sleek, interactive digital space showcasing developer journey, featured projects, technical skillset, and contact channels.
+
+- **Tech:** HTML5, CSS3, JavaScript, GitHub Pages
+- 🔗 **[Live Demo](https://nb-cse.github.io/PORTFOLIO/)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/PORTFOLIO)**
+
+</td>
+<td width="50%">
+
+### 🥗 SwasthScan / NutriScan AI
+An intelligent nutritional analysis application designed for food ingredient inspection, dietary insights, and consumer wellness.
+
+- **Tech:** Next.js, JavaScript, OCR, AI
+- 🔗 **[Live Demo](https://swasthscan.vercel.app)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/SwasthScan)**
 
 </td>
 </tr>
@@ -96,17 +109,16 @@ An intelligent food product analysis application focused on ingredient recogniti
 ## 🧠 Currently Leveling Up
 
 <p>
+  <img src="https://img.shields.io/badge/FullStack-Advanced%20Architecture-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-Intermediate%20Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Exploring-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning-7B2FF7?style=flat-square" />
   <img src="https://img.shields.io/badge/DSA-Practicing-orange?style=flat-square" />
 </p>
 
-- 🐍 Improving Python programming skills.
-- 🌐 Exploring modern frontend technologies.
-- 🤖 Learning AI and Machine Learning fundamentals.
-- 🧩 Practicing Data Structures and Algorithms.
-- 🛠️ Building practical projects.
+- 🚀 Architecting modern scalable full-stack applications.
+- 🤖 Exploring AI agents and Machine Learning integrations.
+- 🧩 Practicing Data Structures & Algorithms.
+- 🛠️ Contributing to open source and deploying production web tools.
 
 ---
 
