@@ -25,7 +25,7 @@
 I'm a Computer Science student and Full Stack Web Developer passionate about building high-performance web applications, creative user experiences, and exploring Artificial Intelligence.
 
 - 🎓 **Education:** B.Tech CSE (AI & ML)
-- 💻 **Full-Stack Development:** React, Node.js, Express, MongoDB, Tailwind CSS
+- 💻 **Full-Stack Development:** React, Node.js, Express, MongoDB, PostgreSQL, Tailwind CSS
 - 🤖 **Interests:** Artificial Intelligence & Machine Learning
 - 🌐 **Portfolio:** [nb-cse.github.io/PORTFOLIO](https://nb-cse.github.io/PORTFOLIO/)
 - 🎯 **Goal:** Crafting impactful software solutions that scale
@@ -40,7 +40,7 @@ I'm a Computer Science student and Full Stack Web Developer passionate about bui
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,js,python,html,css,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,postgres,js,python,html,css,nextjs&theme=dark" />
 </p>
 
 ### Tools & Platforms
@@ -74,6 +74,17 @@ Modern tech career platform connecting engineering talent with top startups and 
 </td>
 <td width="50%">
 
+### 📊 TaskFlow — Project Management Tool
+Enterprise-grade project management application featuring customizable projects, interactive Kanban drag-and-drop workflow, task assignment, deadline tracking, and team collaboration.
+
+- **Tech:** React, Node.js, Express, MongoDB, Tailwind, Kanban
+- 🔗 **[Live Demo](https://nb-cse.github.io/PROJECT-MANAGEMENT/)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/PROJECT-MANAGEMENT)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🛍️ FORME — E-Commerce Platform
 A premium, modern online shopping platform with dynamic product catalogs, interactive cart management, and seamless responsive design.
 
@@ -81,8 +92,6 @@ A premium, modern online shopping platform with dynamic product catalogs, intera
 - 🔗 **[Live Demo](https://forme-store.onrender.com)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/FORME-STORE)**
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🌐 Personal Developer Portfolio
@@ -90,15 +99,6 @@ A sleek, interactive digital space showcasing developer journey, featured projec
 
 - **Tech:** HTML5, CSS3, JavaScript, GitHub Pages
 - 🔗 **[Live Demo](https://nb-cse.github.io/PORTFOLIO/)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/PORTFOLIO)**
-
-</td>
-<td width="50%">
-
-### 🥗 SwasthScan / NutriScan AI
-An intelligent nutritional analysis application designed for food ingredient inspection, dietary insights, and consumer wellness.
-
-- **Tech:** Next.js, JavaScript, OCR, AI
-- 🔗 **[Live Demo](https://swasthscan.vercel.app)** | 📂 **[GitHub Repo](https://github.com/NB-CSE/SwasthScan)**
 
 </td>
 </tr>
